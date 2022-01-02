@@ -45,7 +45,7 @@ body {
   vertical-align: middle;
   margin-bottom: 10px;
   max-width: 100%;
-  height: auto;
+  height: 50%;
 }
 
 .two {
@@ -281,7 +281,7 @@ body {
 
   .six .hat {
     width: 50px;
-    top: -20px;
+    top: 20px;
   }
 
   .wish-hbd {
